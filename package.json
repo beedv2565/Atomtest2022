@@ -1,0 +1,12 @@
+{
+  "name": "xvNtLOxt0yiV97ZQaNfmkUCoUnLg3EPXDF76KjWX4I1pC6bSNUdddd",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "ซื้อหวยยี่กีที่ไหน Huaylike โดยการออกสลากในทุกๆครั้งจะมีการถ่ายทอดสด ด้วย ซื้อหวยยี่กีที่ไหน Huaylike ที่เว็บ Huay หวยออนไลน์ อันดับหนึ่ง Oopsnew.Com ขอทำห",
+  "repository": "https://github.com/beedv2565/Atomtest2022",
+  "keywords": ["ซื้อหวยยี่กีที่ไหน HUAYLIKE","ซื้อหวยยี่กีที่ไหน","HUAYLIKE","ซื้อหวยยี่กีที่ไหน Huay","HUAYLIKE Huay"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
